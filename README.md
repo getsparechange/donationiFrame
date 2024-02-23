@@ -22,7 +22,7 @@ SpareChange can be integrated into any iFrame location. `example.html` has a wor
 
 ##### Determining EIN 
 
-You can use the following search to across charities to get EIN: [https://getsparechange.com/charitySearch/?showEIN=1](https://getsparechange.com/charitySearch/showEIN=1)
+You can use the following search to across charities to get EIN: [https://getsparechange.com/charitySearch/?showEIN=1](https://getsparechange.com/charitySearch/?showEIN=1))
 
 This can be used to find EIN numbers for users.
 
